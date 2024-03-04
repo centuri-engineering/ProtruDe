@@ -1,2 +1,2 @@
 # ProtruDe
-Repository for analysis of protrusion for SARS-COV2 Spike protein imaged by AFM.
+This is a repository of ImageJ macros and plugins for analyzing protrusion in the videos of SARS-CoV-2 spike protein, captured by high-speed atomic force microscope (HS-AFM). The purpose of this pipeline is to process and quantitatively analyze many images within HS-AFM videos in a semi-automatic manner. This pipeline may be adapted to other proteins, or molecular complexes showing protrusions, and to other imaging techniques. The step-by-step description of image processing is provided in the Github_About document.
