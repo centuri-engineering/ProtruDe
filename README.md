@@ -12,4 +12,4 @@ The _MacroProtrusion_ routine transformed the 3rd aligned video (**Fig. 1H**) in
 The contour of the detected protrusion was visualized on the aligned video using the MacroContourProtrusion routine. It used the aligned video (**Fig. 1H**) and the binary video with ROI (**Fig. 1L**) to produce a video with the contour of the ROI highlighted on each image.
 
 
-![](/Users/prithwidip/Documents/INSERM/2022/SARS-CoV-2/HS-AFM /Images:Figures/SI/Image analysis_detailed latest.jpg) **Fig. 1.** An example of sequential HS-AFM image processing using ImageJ-based macros that lead to the detection of the protrusions on spike protein. 
+![](./Image analysis_detailed latest.jpg) **Fig. 1.** An example of sequential HS-AFM image processing using ImageJ-based macros that lead to the detection of the protrusions on spike protein. 
